@@ -362,7 +362,7 @@ fun NanzSplashScreen(
                     .alpha(subtitleAlpha.value)
             ) {
                 Text(
-                    text = "Dev oleh Nanz (nanas)",
+                    text = "Dev oleh Fath (ALfath)",
                     color = Color.White.copy(alpha = 0.6f),
                     fontSize = 12.sp,
                     fontWeight = FontWeight.Medium,
