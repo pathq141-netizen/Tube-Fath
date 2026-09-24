@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The "N" glyph of the FathTube badge (same tight-crop viewport as
+     ic_nanz_badge_shape) so the two layers can be tinted independently. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="36dp"
+    android:viewportWidth="20.08"
+    android:viewportHeight="15.22">
+    <group
+        android:translateX="-1.96"
+        android:translateY="-4.77">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M7.5 7L10.2 7L13.6 13.2L14.3 7L16.8 7L15.5 17L12.8 17L9.4 10.8L8.7 17L6.2 17Z" />
+    </group>
+</vector>
