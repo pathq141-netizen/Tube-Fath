@@ -70,7 +70,7 @@ fun NanzSplashScreen(
     onAnimationFinished: () -> Unit
 ) {
     // Letters data: "Nanz" on top row, "Tube" on bottom row
-    val nanzLetters = remember { listOf('N', 'a', 'n', 'z') }
+    val nanzLetters = remember { listOf('F', 'A', 'T', 'H') }
     val tubeLetters = remember { listOf('T', 'u', 'b', 'e') }
 
     // Individual letter animatables (0f = off-screen side, 1f = centered in place)
@@ -354,7 +354,7 @@ fun NanzSplashScreen(
                 }
             }
 
-            // 5. Subtle Footer "Dev oleh Nanz (nanas)" at bottom
+            // 5. Subtle Footer "Dev oleh Fath (ALfath)" at bottom
             Box(
                 modifier = Modifier
                     .align(Alignment.BottomCenter)
